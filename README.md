@@ -1,16 +1,20 @@
 ### Hi there 👋
+<h1>
+  Welcome to my Profile
+</h1>
+<p align="center">
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thangpq46&layout=compact" />
+  </a>
+</p>
 
-<!--
-**thangpq46/thangpq46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  
+  Programming Language and Tools
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</h1>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,java,firebase,kotlin,cs,github,css,figma,cpp,html,mysql,django,python,sqlite&theme=light" />
+  </a>
+</p>
